@@ -1,0 +1,13 @@
+.search-box{
+    height: 3rem;
+    width: 20rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    border-radius: .25rem;
+    border-color: #444;
+    border-width: 1px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
